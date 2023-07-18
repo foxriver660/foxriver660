@@ -3,7 +3,7 @@
 
 ## 🙋‍♂ Обо мне
 
-- 🔭 Сейчас работаю над: [kupipodariday: backend](https://github.com/foxriver660/kupipodariday), [Githance: frontend](https://github.com/Githance/frontend)
+- 🔭 Сейчас работаю над: [Kupipodariday(backend)](https://github.com/foxriver660/kupipodariday), [Githance(frontend)](https://github.com/Githance/frontend)
 - 🌱 В настоящее время я изучаю: NestJs, NextJs;
 - 📫 Как связаться со мной: TG: [@foxriver660](http://t.me/foxriver660 "Telegram channel");
 - ⚡ К чему стремлюсь:  Писать чистый и легко поддерживаемый код.
