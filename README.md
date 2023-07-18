@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
-     <img src="https://en.vetores.org/vite-js-svg-logo/" title="Vite" alt="Vite" width="40" height="40"/>
+     <img src="https://commons.wikimedia.org/wiki/File:Vitejs-logo.svg" title="Vite" alt="Vite" width="40" height="40"/>
 </div>
 + Тестрирование:
    <div>
