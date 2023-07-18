@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <div> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="30" height="30"/> <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" title="Cypress" alt="Cypress" width="60" height="30"/> </div>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Foxriver660)](https://github.com/Foxriver660/github-readme-stats)
+
 
 ## 📈 Статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foxriver660&theme=github)
