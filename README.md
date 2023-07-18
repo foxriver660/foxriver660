@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> <img src="https://commons.wikimedia.org/wiki/File:Vitejs-logo.svg" title="Vite" alt="Vite" width="40" height="40"/> </div>
 Тестирование:
 
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/> <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" title="Cypress" alt="Cypress" width="auto" height="40"/> </div>
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="30" height="30"/> <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" title="Cypress" alt="Cypress" width="30" height="30"/> </div>
 
 ## 📈 Статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foxriver660&theme=github)
