@@ -27,8 +27,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp;   
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;  
   </div>
-  + Языки и библиотеки:
-+ Базы данных:
+ + Базы данных:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -45,4 +44,8 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
     ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 </div>
+## 📈 Статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foxriver660&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Foxriver660&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Foxriver660&theme=github)
 
+[![codewars](https://www.codewars.com/users/Foxriver660/badges/large)](https://www.codewars.com/users/Foxriver660)  
