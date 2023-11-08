@@ -3,12 +3,12 @@
 
 ## 🙋‍♂ Обо мне
 
-- 🔭 Сейчас работаю над: [Kupipodariday(backend)](https://github.com/foxriver660/kupipodariday), [Netflix(backend)](https://github.com/foxriver660/netflix-backend), [Githance(frontend)](https://github.com/Githance/frontend);
-- 🌱 В настоящее время я изучаю: NestJs, NextJs;
+- 🔭 Сейчас работаю в команде над: [OzonAnalitics(frontend)](https://github.com/Ozon-Analitycs/ozon-analitycs-frontend);
+- 🌱 В настоящее время я изучаю: NextJs;
 - 📫 Как связаться со мной: TG: [@foxriver660](http://t.me/foxriver660 "Telegram channel");
 - ⚡ К чему стремлюсь:  Писать чистый и легко поддерживаемый код.
 
-## 🔨 Используемые технологии
+## 🔨 Некоторые из используемых технологий
 
 + Языки и библиотеки:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="50" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="60" height="60" />&nbsp; <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="Express" width="65" height="30" /> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" title="RHF" alt="RHF" width="75" height="30"/></div>
