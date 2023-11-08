@@ -29,8 +29,9 @@
 
 
 ## 📈 Статистика
+[![codewars](https://www.codewars.com/users/foxriver660/badges/large)](https://www.codewars.com/users/foxriver660)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foxriver660&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Foxriver660&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Foxriver660&theme=github)
 
 
-[![codewars](https://www.codewars.com/users/foxriver660/badges/large)](https://www.codewars.com/users/foxriver660)  
+ 
