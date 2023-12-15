@@ -1,35 +1,46 @@
-### Привет, меня зовут Иван. 👋
----
+<h1 align="center">Hi there, I'm <a href="https://github.com/LumbagoG" target="_blank">Ivan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Fullstack developer</h3>
 
-## 🙋‍♂ Обо мне
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+like+JavaScript)](https://git.io/typing-svg)
 
-- 🔭 Сейчас работаю в команде над: [OzonAnalitics(frontend)](https://github.com/Ozon-Analitycs/ozon-analitycs-frontend);
-- 🌱 В настоящее время я изучаю: углубляю знания JS, NextJs, в планах React Native;
-- 📫 Как связаться со мной: TG: [@ivansafonov19](http://t.me/foxriver660 "Telegram channel");
-- ⚡ К чему стремлюсь:  Писать чистый и легко поддерживаемый код.
+<h2 align="center">About me</h2>
 
-## 🔨 Некоторые из используемых технологий
+- 👀 Fullname - Safonov Ivan Dmitrievich
+- Contacts: foxriver660@gmail.com, [@ivansafonov19](https://t.me/ivansafonov19)
+- 🌱 33 y.o.
+  
+<h2 align="center">My frontend skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,materialui,styledcomponents,vite,webpack,babel,git,jest&perline=8" />
+  </a>
+</p>
+<h2 align="center">My backend skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,postgres,docker&perline=8" />
+  </a>
+</p>
 
-+ Языки и библиотеки:
-<div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="50" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="60" height="60" />&nbsp; <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="Express" width="65" height="30" /> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" title="RHF" alt="RHF" width="75" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;</div>
+<h2 align="center">My achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=foxriver660&theme=juicyfresh&no-bg=true" />
+</p>
 
 
-+ Базы данных:
 
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; </div>
+<h2 align="center">My codewars</h2>
 
-+ Инструменты:
+[![codewars](https://www.codewars.com/users/foxriver660/badges/large)](https://www.codewars.com/users/foxriver660)  
 
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="Vite" alt="Vite" width="65" height="30"/> </div>
 
-+ Тестирование:
-
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="30" height="30"/> <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" title="Cypress" alt="Cypress" width="65" height="30"/> </div>
 
 
 
 ## 📈 Статистика
-[![codewars](https://www.codewars.com/users/foxriver660/badges/large)](https://www.codewars.com/users/foxriver660)  
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foxriver660&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Foxriver660&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Foxriver660&theme=github)
 
