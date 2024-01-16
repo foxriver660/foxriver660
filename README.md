@@ -7,7 +7,7 @@
 <h2 align="center">About me</h2>
 
 - 👀 Fullname - Safonov Ivan Dmitrievich
-- Contacts: foxriver660@gmail.com, [@ivansafonov19](https://t.me/ivansafonov19)
+- Contacts: foxriver660@gmail.com, [@Foxriver660](https://t.me/Foxriver660)
 - 🌱 33 y.o.
   
 <h2 align="center">My frontend skills</h2>
